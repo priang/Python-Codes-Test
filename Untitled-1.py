@@ -1,4 +1,5 @@
 
+# trabalhando com conjuntos, listas e dicionarios
 
 conjunto1 = {1,0,3.5,"casa","d","e","f"}  #set
 lista = ["a","b","c"]
