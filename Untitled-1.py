@@ -10,6 +10,7 @@ conjunto2 = set(dicionario) | set(lista)
 # usar difference ou o operador '-' tera o mesmo resultado
 # opcao 1
 conjunto3 = conjunto1.difference(conjunto2)
+
 # opcao 2
 conjunto4 = conjunto1 - conjunto2
 
